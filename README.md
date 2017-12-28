@@ -1,2 +1,2 @@
 # My-Halite-Bot
-My version of halite bot using python and using to explore more about machine learning 
+My version of halite bot and to use it for more about machine learning 

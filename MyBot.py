@@ -1,6 +1,6 @@
 import hlt
 import logging
-
+import math
 
 game = hlt.Game("Settler")
 logging.info("Starting my Settler bot!")
